@@ -1,2 +1,2 @@
 # mweb-marxico
-A preview CSS theme inspired from Marxico.
+A preview CSS theme inspired by Marxico.
