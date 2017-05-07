@@ -9,5 +9,5 @@ A preview CSS theme inspired by Marxico.
 
 ### MWeb for iOS
 
-![](http://7xin49.com1.z0.glb.clouddn.com/mac_af-01764f37c7f4f6c91c4e495641051585.png-960.jpg)
+![](http://7xin49.com1.z0.glb.clouddn.com/mac_af-01764f37c7f4f6c91c4e495641051585.png-480.jpg)
 
